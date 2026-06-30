@@ -1,0 +1,2 @@
+# 76af098269a5e91f-devops-infra-team-collaboratio
+The devops infra tool you'd build yourself — if you had the time.  Fully documented admin settings panel — no code required for configuration. Compatible with all major WordPress themes and page builders.  ## What's Included  - Devops Infra Team Collaboration Workspace — fully configured and ready to use - Clean admin settings panel with inline doc
